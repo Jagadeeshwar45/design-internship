@@ -8,7 +8,7 @@ Jagadeeshwar Bonnada
 
 ## 2. Portfolio
 
-[GitHub]([url](https://github.com/Jagadeeshwar45))                      
+[GitHub]([(https://github.com/Jagadeeshwar45)])                      
 [Web application that I built]([url](https://split-mint-sandy.vercel.app/))
 
 ## 3. LinkedIn
